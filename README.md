@@ -1,2 +1,2 @@
 # OTT_Analysis
-Analysis of Netflix, Amazon and Disney
+EDA-Analysis of Netflix, Amazon and Disney
